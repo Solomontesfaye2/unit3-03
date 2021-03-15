@@ -1,0 +1,30 @@
+h1 {
+  background-color: green;
+  font-family: serif;
+   text-align: center;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+  font-family: serif;
+  font-size: 20px;
+}
+p2 {
+  background-color: yellow;
+  font-family: serif;
+  font-size: 17px;
+}  
+img {
+  float: right;
+}
+img {
+  border-radius: 8px;
+}
+img {
+  height: 200px;
+  width: 300px;
+}
